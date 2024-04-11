@@ -1,17 +1,17 @@
-const questions = [
-  {
-    id: 1,
-    q: "",
-    choices: [
+// const questions = [
+//   {
+//     id: 1,
+//     q: "",
+//     choices: [
      
-    ],
-    answer: [],
-    topic: "",
-  },
+//     ],
+//     answer: [],
+//     topic: "",
+//   },
 
 
 
 
-]
+// ]
 
 
